@@ -1,4 +1,4 @@
-### Hi, there. I'm Leonardo. Nice to meet you. 🖖
+### Hi, there! I'm Leonardo. Nice to meet you. 🖖
 ----
 About me
 ----
