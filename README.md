@@ -4,7 +4,7 @@ About me
 ----
 
 - 📚 I'm a Computer Engineering Student at Pontifical Catholic University of Rio de Janeiro - PUC-Rio.
-- 🌱 I’m currently learning Node.js.
+- 🌱 I’m currently learning about Node.js.
 - ⚡ Fun fact: I like to draw and create mods for Skyrim Special Edition.
    
 
