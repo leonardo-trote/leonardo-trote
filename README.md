@@ -4,7 +4,7 @@ About me
 ----
 
 - 📚 Computer Engineering Student at Pontifical Catholic University of Rio de Janeiro - PUC-Rio
-- 👨‍💻Innovation and Technology Intern at IdeiaGlobo.
+- 👨‍💻 Innovation and Technology Intern at IdeiaGlobo.
 - 🌱 I’m currently learning about Node.js.
 - ⚡ Fun fact: I like to draw and create mods for Skyrim Special Edition.
    
